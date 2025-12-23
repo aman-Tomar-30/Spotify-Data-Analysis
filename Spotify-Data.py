@@ -1,0 +1,4 @@
+import requests
+
+CLIENT_ID = "e018c805a62d401c9dbacfbd23d62a20"
+CLIENT_SECRET = "175768a7f7d14a77951ffd42ad2394ee"
