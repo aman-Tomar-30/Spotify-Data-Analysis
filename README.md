@@ -21,11 +21,16 @@ The goal is to:
 ## 🗂️ Project Structure
 
 Spotify-Data-Analysis/
-├── Spotify_data clean.csv # Cleaned dataset used for analysis
-├── Spotify-Data-Fetch.py # Script to fetch/prepare data
-├── Spotify_Analysis.ipynb # Main notebook for analysis
-├── .gitignore
-└── README.md
+├── data/
+│   └── Spotify_data_clean.csv        # Cleaned Spotify dataset
+├── notebooks/
+│   └── Spotify_Analysis.ipynb        # Jupyter notebook with analysis
+├── scripts/
+│   └── Spotify-Data-Fetch.py         # Script to fetch/prepare data
+├── .gitignore                        # Files/folders to ignore in Git
+├── README.md                         # Project documentation
+└── requirements.txt                  # Python dependencies
+
 
 ---
 
