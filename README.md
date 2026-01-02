@@ -20,6 +20,7 @@ The goal is to:
 
 ## 🗂️ Project Structure
 
+```plaintext
 Spotify-Data-Analysis/
 ├── data/
 │   └── Spotify_data_clean.csv        # Cleaned Spotify dataset
